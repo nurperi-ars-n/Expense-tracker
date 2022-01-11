@@ -32,6 +32,7 @@ function App() {
 		<Card>
 			<h2>Let's get started!</h2>
 			<Expense data={expenses} />
+			sdnfknk
 		</Card>
 	);
 }
